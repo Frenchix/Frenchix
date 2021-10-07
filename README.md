@@ -18,6 +18,10 @@ Ayant quelques petites notions dans le développement, j'ai pu me former plus en
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=Slack)
 
+## Mes projets 
+
+[Sudoku generator](https://github.com/Frenchix/sudoku_generator)
+
 ## Me contacter
 
 [![Linkedin Badge](https://img.shields.io/badge/-Michael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-cadet-429094131/)](https://www.linkedin.com/in/michael-cadet-429094131/)
