@@ -20,8 +20,8 @@ Ayant quelques petites notions dans le développement, j'ai pu me former plus en
 
 ## Mes projets 
 
-[Sudoku generator](https://github.com/Frenchix/sudoku_generator) Projet en solo
-[Edibles](https://edibles.surge.sh/) Projet de groupe
+[Sudoku generator](https://github.com/Frenchix/sudoku_generator) Projet en solo  
+[Edibles](https://edibles.surge.sh/) Projet de groupe  
 
 ## Me contacter
 
