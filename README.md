@@ -17,12 +17,14 @@ Ayant quelques petites notions dans le développement, j'ai pu me former plus en
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=Slack)
+![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vue-dot-js&logoColor=fff)
 
 ## Mes projets 
 
 [Sudoku generator](https://github.com/Frenchix/sudoku_generator) Projet en solo  
 [Edibles](https://edibles.surge.sh/) Projet de groupe  
 [BOT Discord](https://github.com/Frenchix/BOT-Discord-Say-hello-) Projet en solo
+[BazarB](https://bazarb.onrender.com) Projet en solo
 
 ## Me contacter
 
