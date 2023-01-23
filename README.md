@@ -23,7 +23,7 @@ Ayant quelques petites notions dans le développement, j'ai pu me former plus en
 
 [Sudoku generator](https://github.com/Frenchix/sudoku_generator) Projet en solo  
 [Edibles](https://edibles.surge.sh/) Projet de groupe  
-[BOT Discord](https://github.com/Frenchix/BOT-Discord-Say-hello-) Projet en solo
+[BOT Discord](https://github.com/Frenchix/BOT-Discord-Say-hello-) Projet en solo  
 [BazarB](https://bazarb.onrender.com) Projet en solo
 
 ## Me contacter
