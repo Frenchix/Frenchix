@@ -26,6 +26,7 @@ Ayant quelques petites notions dans le développement, j'ai pu me former plus en
 [BOT Discord](https://github.com/Frenchix/BOT-Discord-Say-hello-) Projet en solo  
 [BazarB](https://bazarb.onrender.com) Projet en solo  
 [VueStock](https://vuestock-8db09.firebaseapp.com) Projet en solo
+[Puzzle](https://puzzle.cloudns.org:5002) Projet en solo
 
 ## Me contacter
 
